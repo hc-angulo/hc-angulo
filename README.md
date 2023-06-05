@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **hc-angulo/hc-angulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hind+Siliguri&size=32&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+World++%3A-)" alt="Typing SVG" /></a>
+</p>
