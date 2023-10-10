@@ -15,7 +15,7 @@ I'm a Back End Developer. I'm a passionate, self-taught coder 👩‍💻 and am
  
  * 🌱 I’m currently learning **Microservices, Docker, Kubernetes, AWS.**
  * 📫 How to reach me: [angulo.hc@gmail.com](mailto:angulo.hc@gmail.com).
- * ⚡ Fun fact: I used to run 6 days a week, at 6 am and 6K 🏃‍♀️💨
+ * ⚡ Fun fact: I run 6 days a week, at 6 am and 6K 🏃‍♀️💨
 
 
 -------
