@@ -13,7 +13,6 @@ I'm a Back End Developer. I'm a passionate, self-taught coder 👩‍💻 and am
 </i>
 </p>
  
- * 🌱 I’m currently learning **Microservices, Docker, Kubernetes, AWS.**
  * ⚡ Fun fact: I run 6 days a week, at 6 am and 6K 🏃‍♀️💨
 
 
@@ -66,14 +65,7 @@ I'm a Back End Developer. I'm a passionate, self-taught coder 👩‍💻 and am
   <img alt="Swagger" src ="https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white">
 </p>
 
--------
-## 🚀 Currently learning and improving
 
-<p align="center"> 
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=blue">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=black">
-</p>
 
 -------
 <h2 align="center"><i>Take a look at my repositories and let's get in touch!</i>⬇️</h2>
