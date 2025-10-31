@@ -14,7 +14,6 @@ I'm a Back End Developer. I'm a passionate, self-taught coder 👩‍💻 and am
 </p>
  
  * 🌱 I’m currently learning **Microservices, Docker, Kubernetes, AWS.**
- * 📫 How to reach me: [angulo.carolinadev@gmail.com](mailto:angulo.carolinadev@gmail.com).
  * ⚡ Fun fact: I run 6 days a week, at 6 am and 6K 🏃‍♀️💨
 
 
